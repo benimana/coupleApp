@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "521338650406",
+    "firebase_url": "https://couple-e6d3c.firebaseio.com",
+    "project_id": "couple-e6d3c",
+    "storage_bucket": "couple-e6d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521338650406:android:5ae6ebdadd28ccea",
+        "android_client_info": {
+          "package_name": "com.example.issa.couple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521338650406-02opl3qnon0m9oj7sn4u594ukgje9efr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38AE7XEUjGPIMoFdRNhW02xAQ2DCZRRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521338650406:android:e65826f590071611",
+        "android_client_info": {
+          "package_name": "com.example.issa.issacart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521338650406-02opl3qnon0m9oj7sn4u594ukgje9efr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA38AE7XEUjGPIMoFdRNhW02xAQ2DCZRRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "itemName": "Pinkie hoodies",
+      "description": "just us two pinkie hoodies with custom names written on back",
+      "imageUrl": "hoodies.PNG",
+      "price": 41.29,
+      "userRating": 5
+    },
+    {
+      "itemName": "Mugs",
+      "description": "Morning glory mugs to spread love",
+      "imageUrl": "mugs.PNG",
+      "price": 27.29,
+      "userRating": 4
+    },
+    {
+      "itemName": "Masaai shuka",
+      "description": "Lets gor for that camping together",
+      "imageUrl": "shuka.PNG",
+      "price": 25.89,
+      "userRating": 4
+    },
+    {
+      "itemName": "Love shirts",
+      "description": "custom made red shirts to express love.",
+      "imageUrl": "love.PNG",
+      "price": 32.19,
+      "userRating": 5
+    },
+    {
+      "itemName": "Euphoria",
+      "description": "Euphoria is a beautiful bosth sex perfume, for a romantic stay home dinner fragrance.",
+      "imageUrl": "euphoria.PNG",
+      "price": 34.99,
+      "userRating": 5
+    },
+    {
+      "itemName": "Caps",
+      "description": "custom made caps. written anything that you want",
+      "imageUrl": "caps.PNG",
+      "price": 108.49,
+      "userRating": 4
+    },
+    {
+      "itemName": "Joggers",
+      "description": "jogging pants for a couple during a morning run",
+      "imageUrl": "joggers.PNG",
+      "price": 18.19,
+      "userRating": 4
+    },
+
+    {
+      "itemName": "socks",
+      "description": "Lovely couple socks to keep you warm",
+      "imageUrl": "socks.PNG",
+      "price": 41.99,
+      "userRating": 4
+    },
+    {
+      "itemName": "Polo Red",
+      "description": "Embrace all things red with Polo Red from the fragrance design house of Ralph Lauren",
+      "imageUrl": "polo.PNG",
+      "price": 55.29,
+      "userRating": 5
+    },
+
+    {
+      "itemName": "Black Opium",
+      "description": "Hot box and chimney yourselves outta miseries",
+      "imageUrl": "opium.PNG",
+      "price": 5.59,
+      "userRating": 5
+    },
+    {
+      "itemName": "Polo-Jackets",
+      "description": "polo jackets just for you during this stormy weather",
+      "imageUrl": "jackets.PNG",
+      "price": 30.09,
+      "userRating": 4
+    },
+    {
+      "itemName": "Crippy mask",
+      "description": "Have fun during your haloween hholiday",
+      "imageUrl": "masks.PNG",
+      "price": 46.69,
+      "userRating": 5
+    },
+    {
+      "itemName": "Suits",
+      "description": "Match your way together to the office",
+      "imageUrl": "suits.PNG",
+      "price": 30.79,
+      "userRating": 5
+    }
+  ]
+}
+
